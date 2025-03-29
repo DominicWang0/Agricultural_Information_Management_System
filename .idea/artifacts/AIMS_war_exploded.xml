@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="AIMS:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/AIMS_war_exploded</output-path>
-    <root id="root" />
-  </artifact>
-</component>
